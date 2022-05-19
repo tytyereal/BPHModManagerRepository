@@ -1,0 +1,7 @@
+{
+  "Name": "bphSaveSlots",
+  "Author": "bk#9585",
+  "Description": "Enables multiple save slots for Backpack Hero.",
+  "Mod Version" : "v1.0.1",
+  "Compatible Game Versions": ["0.17A"]
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "RespriteHero",
+  "Author": "ijzm",
+  "Description": "A simple Backpack Hero mod. To allow anyone to change the textures in-game. Without any coding! \nCreating Textures\nCreate a png file inside your ModConfig/RespriteHero/ folder with the name of the item you want to change. You can see some examples on the ModConfig/RespriteHero folder.",
+  "Mod Version" : "0.1.1",
+  "Compatible Game Versions": ["0.17A"]
+}

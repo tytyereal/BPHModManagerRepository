@@ -1,0 +1,7 @@
+{
+  "Name": "HardMode",
+  "Author": "tytyereal",
+  "Description": "Makes the game much more difficult!\n - Only 2 AP\n - Can only take 2 items after combat\n - Fewer tiles from level up - Starting max health of 20",
+  "Mod Version" : "1.0.0",
+  "Compatible Game Versions": ["0.17A"]
+}
